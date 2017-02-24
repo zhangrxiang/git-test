@@ -1,0 +1,17 @@
+git conle url
+
+git init project
+
+git add .
+
+git commit -a -m "message"
+
+git push 
+
+
+git pull
+
+
+git merge branch1 branch2 ...
+
+git tag name
